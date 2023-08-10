@@ -1,16 +1,19 @@
-### Hi there 👋
+Hey 👋 What's up?</br>
+My name is Kaushik and I'm a Frontend Web developer, from Surat,gujrat
+</br>
+</br>
+About me</br>
+📚 I'm currently learning Backend development</br>
+🎯 Goal To Be a Senior Fullstack Web Developer</br>
+🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</br>
 
-<!--
-**kaushik1807/kaushik1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code with
 
-Here are some ideas to get you started:
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667](https://github.com/kaushik1807/kaushik1807/assets/112487953/d04d0869-4ed7-4184-a7bc-041662b5a45b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667](https://github.com/kaushik1807/kaushik1807/assets/112487953/5e11541a-5ed9-4ccf-8fe2-7a8f58f7ddde)
+
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667](https://github.com/kaushik1807/kaushik1807/assets/112487953/413fbd46-7f9d-45b3-9074-cb4c1470ab43)
+
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667](https://github.com/kaushik1807/kaushik1807/assets/112487953/0b254c6e-6767-4ab4-8513-b9757d0f3535)
+
