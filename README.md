@@ -1,6 +1,8 @@
 Welcome to my page 👋 What's up? </br>
 My name is Kaushik and I'm a Frontend Web developer, from Surat,gujrat
 </br>
+Code for Devine 
+</br>
 </br>
 About me</br>
 📚 Journey of learning backend devlopment is on the way</br>
