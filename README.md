@@ -1,13 +1,13 @@
 Welcome to my page 👋 What's up? </br>
 My name is Kaushik and I'm a Frontend Web developer, from Surat,gujrat
 </br>
-Code for Devine 
+
 </br>
 </br>
 About me</br>
-📚 Journey of learning backend devlopment is on the way</br>
-🎯 Goal To Be a Senior Fullstack Web Developer</br>
-🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</br>
+📚 Journey of learning fullstrack devlopment is on the way</br>
+🎯 Goal To Be a Software Engineer</br>
+🎲 </br>
 
 I can code with...
 
