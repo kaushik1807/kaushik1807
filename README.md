@@ -1,8 +1,6 @@
 Welcome to my page 👋 What's up? </br>
 My name is Kaushik and I'm a Frontend Web developer, from Surat,gujrat
 </br>
-
-</br>
 </br>
 About me</br>
 📚 Journey of learning fullstrack devlopment is on the way</br>
