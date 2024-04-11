@@ -1,5 +1,5 @@
 Welcome to my page 👋 What's up? </br>
-My name is Kaushik and I'm a Frontend Web developer, from Surat,gujrat
+My name is Kaushik and I'm a  Web developer, from Surat,gujrat
 </br>
 </br>
 About me</br>
