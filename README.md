@@ -1,5 +1,9 @@
 Welcome to my page 👋 What's up? </br>
-My name is Kaushik and I'm a  Web developer, from Surat,gujrat
+My name is Kaushik and I'm a  Web developer, from Surat,gujrat.
+</br>
+i'm Graduated from sutex collage,amaroli,surat.
+</br>
+currentally working at Marelab services as web devloper.
 </br>
 </br>
 About me</br>
