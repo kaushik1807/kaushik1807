@@ -7,11 +7,12 @@ currentally working at Marelab services as web devloper.
 </br>
 </br>
 About me</br>
-📚 Journey of learning fullstrack devlopment is on the way</br>
+👨‍💻 I’m currently working on ReactJS, NodeJS, ExpressJs, MongoDB etc.
+📚 How to reach me kaushikbhikadiya187@gmail.com | <a href="in/kaushik-bhikadiya-390180244">LinkedIn</a></br>
 🎯 Goal To Be a Software Engineer</br>
-🎲 </br>
+ </br>
 
-I can code with...
+🛠 Language and tools
 
 <img src="https://github.com/kaushik1807/kaushik1807/assets/112487953/d04d0869-4ed7-4184-a7bc-041662b5a45b" width="38" height="38" alt="accessibility text">
 
